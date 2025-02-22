@@ -1,4 +1,4 @@
-# Corn Disease Detection using VGG16
+# VGG16 Fine Tuning with Corn Disease Detection Dataset
 
 This repository contains the code and results for fine-tuning the VGG16 model on the "Corn Diseases Detection Dataset" to classify corn leaf diseases. The dataset includes four classes: **Healthy, Common Rust, Blight, and Gray Leaf Spot**.
 
