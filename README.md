@@ -62,8 +62,5 @@ In this approach, we freeze the first four convolutional blocks of the VGG16 mod
 
 Fine-Tune 2 outperforms Fine-Tune 1 in both accuracy and loss metrics. By unfreezing the fifth convolutional block, the model is able to learn more specific features from the dataset, leading to better performance.
 
-### Accuracy and Loss Plots
-(Add your accuracy and loss plots here if available)
-
 ## Conclusion
 Fine-tuning the VGG16 model on the corn disease dataset yields promising results, especially when unfreezing the last convolutional block. This allows the model to adapt more effectively to the specific features of the dataset, resulting in higher accuracy and lower loss.
